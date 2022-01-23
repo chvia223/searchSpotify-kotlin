@@ -1,0 +1,1 @@
+/Users/chvia/IdeaProjects/sandboxApi/build/classes/kotlin/main/MainKt$main$2.class:/Users/chvia/IdeaProjects/sandboxApi/build/classes/kotlin/main/MainKt.class

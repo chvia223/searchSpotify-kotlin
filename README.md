@@ -1,5 +1,5 @@
 # Overview
-Program designed to connect to and use Spotify's public search web API using kotlin.
+Program designed to connect to and use Spotify's public search web API using kotlin. This is meant as a test component for an app that I am working on. A version of this program in Swift will be pushed to GitHub in the coming weeks.
 
 To use this it is required for you to make a Spotify developer account as you will need to use developer tokens to access the APIs. This is super easy to do. Just follow the link under `Useful Websites` or watch the linked video.
 
